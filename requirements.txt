@@ -1,0 +1,12 @@
+transformers>=4.46.0
+peft>=0.7.1
+trl==0.12.1
+accelerate>=1.0.1
+datasets>=3.1.0
+autoawq==0.2.9
+bitsandbytes
+pandas
+numpy
+scipy
+huggingface_hub
+tqdm
